@@ -1,0 +1,13 @@
+
+      
+@media screen and (max-width: 640px) {background-color: blue;
+ }
+
+
+@media screen and (max-width: 768px) {.myfloat {float:left;}}
+
+
+@media screen and (max-width:980px) {.myfloat {float:left;}  }
+
+.container {max-width: 980px;}
+
